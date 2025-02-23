@@ -31,24 +31,12 @@ python app.py
 This will launch the *Gradio UI* in your browser at http://127.0.0.1:7860
 
 ---
+# Paragraph Summarizer
 
-## 🌍 Deployment to Hugging Face Spaces
-### *1️⃣ Log in to Hugging Face*
-- Create an account at [Hugging Face](https://huggingface.co/)
-- Create a *new Space* (choose Gradio as the SDK)
+This is a simple text summarization app using Transformers.
 
-### *2️⃣ Upload Files to Hugging Face*
-- Upload app.py, requirements.txt, and any other necessary files.
-- Hugging Face will *automatically* install dependencies and run your app!
+🚀 *Try it live here:* https://huggingface.co/spaces/gagan-12/summarizer
 
-### *3️⃣ Get the Public Link*
-Once deployed, you will receive a *public link* like:
-
-https://huggingface.co/spaces/YOUR_USERNAME/PARAGRAPH_SUMMARIZER
-
-Share this link so others can access your summarizer!
-
----
 
 ## 📂 Project Structure
 
@@ -63,10 +51,10 @@ PARAGRAPH_SUMMARIZER/
 
 ## 🤖 Example Usage
 ### *Input Paragraph:*
-> Hugging Face provides a wide range of NLP models that can be used for various tasks such as text classification, translation, question answering, and summarization. These models are easy to use and can be fine-tuned for specific applications.
+> Critical thinking is an essential skill that plays a vital role in education and lifelong learning. It enables individuals to analyze information, evaluate different perspectives, and make informed decisions based on logic and evidence. In the modern world, where information is abundant but not always reliable, the ability to think critically is more important than ever. Students who develop strong critical thinking skills can differentiate between credible sources and misleading information, which is crucial in academic research, news consumption, and decision-making in daily life. Moreover, critical thinking promotes problem-solving abilities, encouraging students to think independently rather than simply memorizing facts. Instead of passively accepting knowledge, learners are encouraged to ask questions, challenge assumptions, and engage in meaningful discussions. This leads to deeper comprehension, improved creativity, and the ability to adapt to new challenges. Teachers play a crucial role in fostering critical thinking by designing activities that require students to analyze case studies, debate different viewpoints, and apply knowledge to real-world scenarios. Additionally, technology and digital tools provide new opportunities for developing critical thinking through interactive simulations, online discussions, and problem-based learning environments. By incorporating these strategies, educators can help students become more analytical, reflective, and prepared for the complexities of the real world. Ultimately, critical thinking empowers learners with the ability to think independently, solve problems efficiently, and make well-informed decisions, which are essential skills for both academic success and personal growth.
 
 ### *Output Summary:*
-> Hugging Face offers NLP models for tasks like classification, translation, and summarization, which can be easily fine-tuned.
+>In the modern world, where information is abundant but not always reliable, the ability to think critically is more important than ever. Teachers play a crucial role in fostering critical thinking by designing activities that require students to analyze case studies. Technology and digital tools provide new opportunities for developing critical thinking through interactive simulations, online discussions, and problem-based learning environments.
 
 ---
 
