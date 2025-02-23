@@ -14,7 +14,7 @@ This is a *Paragraph Summarizer* application that uses a *Hugging Face model* to
 ## 🏗 Installation & Setup
 ### *1️⃣ Clone the Repository*
 bash
-git clone https://github.com/YOUR_GITHUB_USERNAME/PARAGRAPH_SUMMARIZER.git
+git clone  https://github.com/mohit1221iitian/PARAGRAPH_SUMMARIZER
 cd PARAGRAPH_SUMMARIZER
 
 
@@ -81,7 +81,7 @@ This project is *MIT Licensed*. You are free to use, modify, and distribute it.
 ---
 
 ### 🔗 Connect with Me
-- GitHub: 
+- GitHub: https://github.com/mohit1221iitian/PARAGRAPH_SUMMARIZER
 
 
 🚀 *Happy Coding!*
