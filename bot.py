@@ -22,5 +22,5 @@ def summarize_text(user_input):
 iface = gr.Interface(fn=summarize_text, inputs="text", outputs="text", title="Text Summarization Bot")
 
 # Run the app
-if _name_ == "_main_":
+if __name__ == "__main__":
     iface.launch()
