@@ -1,3 +1,6 @@
 gradio
 transformers
 torch
+pdfplumber
+sentencepiece
+fpdf
