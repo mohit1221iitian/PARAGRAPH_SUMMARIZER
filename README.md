@@ -30,9 +30,7 @@ To run this project locally, follow these steps:
 
 ### **1. Clone the Repository** 📂
 bash
-git clone 
-
-# Installation Instructions ⚙️
+git clone https://github.com/mohit1221iitian/PARAGRAPH_SUMMARIZER.git
 
 ### Prerequisites 📦
 
@@ -40,13 +38,7 @@ Make sure you have the following installed on your system:
 - **Python 3.6 or higher** ✨
 - **Pip** (Python package manager) 🔧
 
-### Clone the Repository 🖥️
 
-To get started, clone the repository to your local machine:
-
-bash
-https://github.com/mohit1221iitian/PARAGRAPH_SUMMARIZER.git
-cd PDF_SUMMARIZER
 
 ### *2️⃣ Install Dependencies*
 Make sure you have *Python 3.10+* installed, then run:
@@ -65,6 +57,46 @@ This will launch the *Gradio UI* in your browser at http://127.0.0.1:7860
 
 🚀 *Try it live here:* https://huggingface.co/spaces/mohit-me/EDUCATION_BOT
 
+## **How to Use** 🎬
+
+1. **Upload a PDF**: Click the “📂 Upload a Large PDF” button to select the PDF document you want to analyze.
+2. **Choose Number of Pages**: Use the slider to specify how many pages you want to process (default is 50).
+3. **Ask a Question**: Type a question related to the content of the PDF, and the AI Tutor will provide an answer.
+4. **Get Results**:
+    - **Summary**: View a summarized version of the document in bullet points.
+    - **Viva Questions**: Automatically generate viva questions.
+    - **MCQs**: Receive multiple-choice questions based on the document.
+    - **Flashcards**: Create revision flashcards.
+    - **AI Tutor**: Get answers from the AI Tutor based on the document's content.
+5. **Download Summary PDF**: After summarizing, you can download the summary in PDF format.
+
+---
+
+## **Example Output** 📝
+
+After uploading a PDF, the output could look like this:
+
+### **📌 Summary**
+- Key points and highlights of the document.
+- Helps you get the main ideas in a few sentences.
+
+### **📖 Viva Questions**
+1. What are the key themes discussed in the document?
+2. Explain the significance of [topic] in relation to [subject].
+
+### **📝 MCQs**
+1. What is the primary function of [concept]?
+   - A) Option 1
+   - B) Option 2
+   - C) Option 3
+   - D) Option 4
+
+### **📌 Flashcards**
+- What is the definition of [term]?
+- What are the key takeaways from [section]?
+
+### **🤖 AI Tutor Answer**
+- The AI answers your specific questions based on the text from the PDF.
 
 ## 📂 Project Structure
 
@@ -77,14 +109,7 @@ PARAGRAPH_SUMMARIZER/
 
 ---
 
-## 🤖 Example Usage
-### *Input Paragraph:*
-> Critical thinking is an essential skill that plays a vital role in education and lifelong learning. It enables individuals to analyze information, evaluate different perspectives, and make informed decisions based on logic and evidence. In the modern world, where information is abundant but not always reliable, the ability to think critically is more important than ever. Students who develop strong critical thinking skills can differentiate between credible sources and misleading information, which is crucial in academic research, news consumption, and decision-making in daily life. Moreover, critical thinking promotes problem-solving abilities, encouraging students to think independently rather than simply memorizing facts. Instead of passively accepting knowledge, learners are encouraged to ask questions, challenge assumptions, and engage in meaningful discussions. This leads to deeper comprehension, improved creativity, and the ability to adapt to new challenges. Teachers play a crucial role in fostering critical thinking by designing activities that require students to analyze case studies, debate different viewpoints, and apply knowledge to real-world scenarios. Additionally, technology and digital tools provide new opportunities for developing critical thinking through interactive simulations, online discussions, and problem-based learning environments. By incorporating these strategies, educators can help students become more analytical, reflective, and prepared for the complexities of the real world. Ultimately, critical thinking empowers learners with the ability to think independently, solve problems efficiently, and make well-informed decisions, which are essential skills for both academic success and personal growth.
-
-### *Output Summary:*
->In the modern world, where information is abundant but not always reliable, the ability to think critically is more important than ever. Teachers play a crucial role in fostering critical thinking by designing activities that require students to analyze case studies. Technology and digital tools provide new opportunities for developing critical thinking through interactive simulations, online discussions, and problem-based learning environments.
-
----
+## Screenshots
 
 ## 🤝 Contributing
 Feel free to *fork* this repository and improve the project. Contributions are welcome!
