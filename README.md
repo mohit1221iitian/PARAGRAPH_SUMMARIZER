@@ -1,22 +1,40 @@
-# 📜 Paragraph Summarizer
+# 🌟 AI-Powered PDF and Text Processing for Educational Purposes 🌟
 
-## 🚀 Overview
-This is a *Paragraph Summarizer* application that uses a *Hugging Face model* to summarize large text inputs into concise and meaningful summaries. The application is built with *Gradio* for an interactive UI and deployed on *Hugging Face Spaces*.
+## Overview 📚
 
-## 🛠 Features
-- 📑 Summarizes long paragraphs into short, readable summaries
-- 🧠 Uses *Facebook BART-Large-CNN model* for summarization
-- 🌐 Accessible via a simple web UI using *Gradio*
-- 🚀 Deployable on *Hugging Face Spaces* and *GitHub Pages*
+This project provides an **AI-powered tool** designed to assist in educational settings. With the ability to process PDF and text documents, this tool performs the following tasks:
+
+- ✨ **Text Summarization**: Automatically condenses long texts into concise bullet points, making them easier to understand.
+- ❓ **Viva Question Generation**: Creates unique and insightful questions from the content for exam or viva preparations.
+- 🤖 **AI Tutor**: Answers your questions based on the uploaded document, acting as your personalized tutor.
+- 📥 **Downloadable Summary PDF**: Allows you to download the summarized content in a clean, printable PDF format.
+- 🌐 **Multiple Input Formats**: Accepts both PDF uploads and plain text inputs.
 
 ---
 
-## 🏗 Installation & Setup
-### *1️⃣ Clone the Repository*
-bash
-git clone  https://github.com/mohit1221iitian/PARAGRAPH_SUMMARIZER
-cd PARAGRAPH_SUMMARIZER
+## Features 🚀
+- 📝 **Text Summarization**: Summarizes long paragraphs into clear, easy-to-read points.
+- 🎓 **Viva Question Generation**: Produces unique and meaningful viva questions for your learning needs.
+- 💡 **AI Tutor**: Get answers to your queries based on the uploaded content (PDF or text).
+- 📄 **Downloadable Summary PDF**: Download a neatly formatted summary of the document.
+- 📂 **Supports Both PDF and Text Inputs**: Upload a PDF file or paste text directly.
 
+---
+# Installation Instructions ⚙️
+
+### Prerequisites 📦
+
+Make sure you have the following installed on your system:
+- **Python 3.6 or higher** ✨
+- **Pip** (Python package manager) 🔧
+
+### Clone the Repository 🖥️
+
+To get started, clone the repository to your local machine:
+
+bash
+git clone https://github.com/your-username/ai-powered-pdf-text-processing.git
+cd ai-powered-pdf-text-processin
 
 ### *2️⃣ Install Dependencies*
 Make sure you have *Python 3.10+* installed, then run:
