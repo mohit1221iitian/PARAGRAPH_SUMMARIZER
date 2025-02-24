@@ -33,8 +33,8 @@ Make sure you have the following installed on your system:
 To get started, clone the repository to your local machine:
 
 bash
-git clone https://github.com/your-username/ai-powered-pdf-text-processing.git
-cd ai-powered-pdf-text-processin
+https://github.com/mohit1221iitian/PARAGRAPH_SUMMARIZER.git
+cd PDF_SUMMARIZER
 
 ### *2️⃣ Install Dependencies*
 Make sure you have *Python 3.10+* installed, then run:
@@ -44,16 +44,14 @@ pip install -r requirements.txt
 
 ### *3️⃣ Run the Application Locally*
 bash
-python app.py
+python bot.py
 
 This will launch the *Gradio UI* in your browser at http://127.0.0.1:7860
 
 ---
-# Paragraph Summarizer
 
-This is a simple text summarization app using Transformers.
 
-🚀 *Try it live here:* https://huggingface.co/spaces/gagan-12/summarizer
+🚀 *Try it live here:* https://huggingface.co/spaces/mohit-me/EDUCATION_BOT
 
 
 ## 📂 Project Structure
